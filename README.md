@@ -4,10 +4,6 @@
 
 [![image info](https://raw.githubusercontent.com/dogukanzorlu/PotterSea/main/pottersea_youtube.png?token=AAKD644ZEQNBWVOL35TWCQDBX4UIA)](https://www.youtube.com/watch?v=GKQ1u-M0J6o)
 
-## DEMO
-
-- Demo Link: [`https://ozcanzaferayan.github.io/meta-nft-vr-client/`](https://ozcanzaferayan.github.io/meta-nft-vr-client)  
-
 
 # İçindekiler
 
@@ -34,7 +30,6 @@ Solidity ile geliştirilmiş olan smart contractlar aracağılı ile üretmiş o
 
 ## Client
 
-[`Client Main Repo`](https://github.com/ozcanzaferayan/meta-nft-vr-client)  
 Server'ın verdiği REST API aracılıgıyla mint edilmis NFT ile ilgili metadata bilgilerini alır ve bir VR ortamında görüntülenmesini sağlar.
 
 ### Client-Stack
